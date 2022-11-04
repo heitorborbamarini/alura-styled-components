@@ -7,7 +7,7 @@ export const temaClaro =  {
 body: fundoClaro,
 inside: conteudoClaro,
 text: textoFundoClaro,
-
+filter: "",
 };
 
 export const temaEscuro = {
